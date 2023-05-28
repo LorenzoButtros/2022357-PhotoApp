@@ -1,0 +1,35 @@
+.pageBackground {
+  background: url('../../assets/images/GreenGraphWallpaper.jpg');
+  background-repeat: repeat;
+  width: 100%;
+  min-height: 100%;
+  height: fit-content;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 1vw;
+  padding-right: 1vw;
+}
+  
+.pageContent {
+  text-align: center;
+}
+
+.photo {
+  border-color: #000000;
+  padding: 0.75vw;
+  border-width: 0.2vw;
+  border-style: solid;
+  box-shadow: 1vw 1vw #000000;
+}
+
+.regular {
+  background-color: #dddddd;
+}
+
+.fav {
+  background-color: green;
+}
+
+
+
+  

@@ -1,0 +1,32 @@
+.pageBackground {
+  background: url('../../assets/images/GreenGraphWallpaper.jpg');
+  background-repeat: repeat;
+  width: 100%;
+  min-height: 100%;
+  height: fit-content;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  position: relative;
+}
+ 
+.camera-icon {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 3em;
+  border-color: black;
+  border-width: 0.5em;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+ion-fab-button[big] {
+  width: 8em;
+  height: 8em;
+}
+
+ion-icon {
+  font-size: 5em;
+}

@@ -1,0 +1,58 @@
+.pageBackground {
+  background: url('../../assets/images/GreenGraphWallpaper.jpg');
+  background-repeat: repeat;
+  width: 100%;
+  min-height: 100%;
+  height: fit-content;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  position: relative;
+}
+  
+.pageContent {
+  text-align: center;
+}
+
+.banner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 18em;
+  margin-bottom: 5vh;
+  padding: 1em;
+  border-radius: 3em;
+  background-color: #000000cc;
+}
+
+.info {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+  padding: 1em;
+  border-radius: 3em;
+  background-color: #000000cc;
+}
+
+strong {
+  font-size: 20px;
+  line-height: 26px;
+  color: #eeeeee;
+  text-shadow: 0.1em 0.1em 2px #000000;
+}
+
+p {
+  font-size: 16px;
+  line-height: 22px;
+  color: #eeeeee;
+  margin: 0;
+  text-shadow: 0.1em 0.1em 1.2px #000000;
+}
+
+a {
+  text-decoration: none;
+}
+  
+  
+  
+  
